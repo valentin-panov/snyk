@@ -12,7 +12,7 @@
 
 
 
-  "description": "A flasky app.",
+  "description": "AST",
     "devDependencies": {
     "@babel/core": "^7.10.5",
     "@babel/preset-typescript": "^7.14.5",
